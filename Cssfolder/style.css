@@ -1,0 +1,45 @@
+#header {
+    text-align: center;
+    background-color: rgba(181, 206, 68, 0.753);
+}
+
+.link {
+    border: 2px solid black;
+}
+
+#column-height {
+    height: 200px;
+}
+
+#left-column {
+    background-color: rgba(57, 117, 207, 0.644);
+}
+
+#right-column {
+    background-color: rgba(214, 136, 91, 0.726);
+}
+
+footer {
+    background-color: rgba(238, 117, 117, 0.582);
+}
+
+#footer-img {
+    text-align: center;
+    align-self: center;
+    padding: 20px;
+}
+
+#footer-text {
+    text-align: center;
+    align-self: center;
+}
+
+.footer-link {
+    padding: 20px;
+}
+
+img {
+    border: 3px solid grey;
+    width: 100px;
+    height: 100px;
+}
